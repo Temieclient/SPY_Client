@@ -1,7 +1,7 @@
 # SPY_Client
 A **S.P.Y.** (*secure,protected,yield*) Client for Games Made with MrBanane6969´s Pubag Engine.
 
-##WARNING THIS IS SCRAPPED IM ALREADY WORKING ON S.P.Y-ABOCH  (**A Big Offensive Client Hack**)
+WARNING THIS IS SCRAPPED IM ALREADY WORKING ON S.P.Y-ABOCH  (**A Big Offensive Client Hack**)
 
 ## For New Users
 1. If you have Pubag you may skip step 2.
